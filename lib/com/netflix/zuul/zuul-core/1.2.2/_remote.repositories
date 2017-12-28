@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 10 21:10:49 PDT 2017
+zuul-core-1.2.2.jar>central=
+zuul-core-1.2.2.jar>=
+zuul-core-1.2.2.pom>central=

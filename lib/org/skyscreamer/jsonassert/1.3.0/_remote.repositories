@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 10 21:10:40 PDT 2017
+jsonassert-1.3.0.jar>=
+jsonassert-1.3.0.pom>central=
+jsonassert-1.3.0.jar>central=

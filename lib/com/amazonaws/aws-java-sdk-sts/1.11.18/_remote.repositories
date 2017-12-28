@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 10 21:10:40 PDT 2017
+aws-java-sdk-sts-1.11.18.jar>=
+aws-java-sdk-sts-1.11.18.pom>central=
+aws-java-sdk-sts-1.11.18.jar>central=
